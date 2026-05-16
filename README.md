@@ -27,12 +27,10 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Hello
 
-<table>
-<tr><td>
+<table width="100%">
+<tr><td valign="top" width="60%">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> About Me
-
-<img align="right" width="88" src="https://octodex.github.com/images/codercat.jpg" />
 
 ```javascript
 const CarryDream = {
@@ -44,17 +42,9 @@ const CarryDream = {
 };
 ```
 
-</td></tr>
+</td><td valign="top" align="center" width="40%">
 
-<tr><td>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> WakaTime
-
-<!--START_SECTION:waka-->
-```text
-No Activity Tracked Yet
-```
-<!--END_SECTION:waka-->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Technologist%20Light%20Skin%20Tone.png" width="200" />
 
 </td></tr>
 </table>
