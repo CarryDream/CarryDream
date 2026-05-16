@@ -1,0 +1,32 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # 每天 UTC 01:00（北京时间 09:00）运行
+  workflow_dispatch:        # 支持手动触发
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # 需要在仓库 Settings > Secrets 中添加名为 METRICS_TOKEN 的 PAT
+          # PAT 需要 read:user, repo, read:org 权限
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: CarryDream
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          filename: github-metrics.svg
+          output_action: commit
+          committer_branch: main
