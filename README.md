@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,70:16213e,100:0f3460&height=180&section=header&text=CarryDream&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Explorer&descSize=18&descAlignY=55&animation=fadeIn&stroke=00f0ff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2647,80:144272,100:2c74b3&height=200&section=header&text=CarryDream&fontSize=70&fontColor=ffffff&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20AI%20Explorer&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&height=100&lines=%E4%BB%A3%E7%A0%81%E5%A6%82%E8%AF%97%EF%BC%8CBug%20%E7%9A%86%E6%98%AF%E6%83%85%E8%8A%82%E8%BD%AC%E6%8A%98;Stay+hungry,+stay+foolish;Full+Stack+%7C+AI+%7C+Open+Source)](https://git.io/typing-svg)
@@ -167,6 +167,6 @@ const CarryDream = {
 <img src="https://komarev.com/ghpvc/?username=CarryDream&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f3460,70:16213e,100:1a1a2e&height=120&section=footer&text=Thank%20You&fontSize=50&fontColor=ffffff&fontAlignY=55&desc=Code%20is%20poetry%2C%20commit%20is%20the%20ink.&descSize=18&descAlignY=75&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c74b3,40:144272,80:0a2647,100:0d1117&height=120&section=footer&text=Thank%20You&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Code%20is%20poetry%2C%20commit%20is%20the%20ink.&descSize=16&descAlignY=70&animation=twinkling" width="100%"/>
 
 </div>
