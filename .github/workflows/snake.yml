@@ -9,8 +9,12 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write        # 允许 GITHUB_TOKEN 写入仓库
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate snake animation
         uses: Platane/snk@v3
