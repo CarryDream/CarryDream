@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2647,80:144272,100:2c74b3&height=200&section=header&text=CarryDream&fontSize=70&fontColor=ffffff&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20AI%20Explorer&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08111f,32:0b6b57,68:c79a3b,100:8b1e3f&height=200&section=header&text=CarryDream&fontSize=70&fontColor=ffffff&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20AI%20Explorer&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&height=100&lines=%E4%BB%A3%E7%A0%81%E5%A6%82%E8%AF%97%EF%BC%8CBug%20%E7%9A%86%E6%98%AF%E6%83%85%E8%8A%82%E8%BD%AC%E6%8A%98;Stay+hungry,+stay+foolish;Full+Stack+%7C+AI+%7C+Open+Source)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=00F0FF&center=true&vCenter=true&width=500&height=100&lines=%E4%BB%A3%E7%A0%81%E5%A6%82%E8%AF%97%EF%BC%8CBug%20%E7%9A%86%E6%98%AF%E6%83%85%E8%8A%82%E8%BD%AC%E6%8A%98;Stay+hungry,+stay+foolish;Full+Stack+%7C+AI+%7C+Open+Source)](https://git.io/typing-svg)
 
 <!-- Coding GIF -->
 <picture>
@@ -163,10 +163,7 @@ const CarryDream = {
 
 <div align="center">
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=CarryDream&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" />
-
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c74b3,40:144272,80:0a2647,100:0d1117&height=120&section=footer&text=Thank%20You&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Code%20is%20poetry%2C%20commit%20is%20the%20ink.&descSize=16&descAlignY=70&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b1e3f,32:c79a3b,68:0b6b57,100:08111f&height=200&section=footer&text=Thank%20You&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Code%20is%20poetry%2C%20commit%20is%20the%20ink.&descSize=16&descAlignY=70&animation=twinkling" width="100%"/>
 
 </div>
