@@ -90,15 +90,15 @@ const CarryDream = {
 
 <!-- Stats Cards -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CarryDream&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=00f0ff&icon_color=ff00aa&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=CarryDream&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=CarryDream&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=00f0ff&icon_color=ff00aa&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarryDream&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarryDream&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarryDream&theme=github_dark" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CarryDream&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00f0ff&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CarryDream&layout=compact&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarryDream&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00f0ff&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarryDream&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarryDream&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarryDream&theme=github_dark" />
 </picture>
 
 <!-- Trophy -->
